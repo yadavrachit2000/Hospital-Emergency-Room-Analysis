@@ -42,7 +42,7 @@ This repository contains an interactive **Hospital Emergency Room Dashboard** bu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/hospital-er-dashboard.git
+   git clone https://github.com/yadavrachit2000/hospital-er-dashboard.git
    ```
 
 2. **Open the Excel file:**
