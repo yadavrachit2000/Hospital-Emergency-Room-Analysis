@@ -47,7 +47,7 @@ This repository contains an interactive **Hospital Emergency Room Dashboard** bu
 
 2. **Open the Excel file:**
    - Navigate to the cloned folder.
-   - Open `Hospital_ER_Dashboard.xlsx`.
+   - Open `Hospital Emergency Room Data.xlsx`.
 
 3. **Refresh Data:**
    - Go to the **Data** tab in Excel.
@@ -62,8 +62,8 @@ This repository contains an interactive **Hospital Emergency Room Dashboard** bu
 
 ```
 📂 hospital-er-dashboard/
-├── 📄 Hospital_ER_Dashboard.xlsx    # Main dashboard file
 ├── 📁 data/                         # Raw and processed data files
+├── 📄 Hospital Emergency Room Dashboard.xlsx    # Main dashboard file
 ├── 📄 README.md                      # Project documentation
 └── 📄 LICENSE                        # License information
 ```
