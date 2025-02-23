@@ -62,10 +62,9 @@ This repository contains an interactive **Hospital Emergency Room Dashboard** bu
 
 ```
 📂 Hospital-Emergency-Room-Dashboard/
-├── 📁 data/                         # Raw and processed data files
-├── 📄 Hospital Emergency Room Dashboard.xlsx    # Main dashboard file
-├── 📄 README.md                      # Project documentation
-└── 📄 LICENSE                        # License information
+├── 📁 data/ Hospital Emergency Room Data.csv
+├── 📄 Hospital Emergency Room Dashboard.xlsx 
+├── 📄 README.md
 ```
 
 
